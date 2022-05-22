@@ -156,15 +156,15 @@ def start(update, context):
                     [
                         InlineKeyboardButton(
                             text="Support Chat ",
-                            url="https://t.me/eagleunionelizasupport"),
+                            url="https://t.me/Mastro_support"),
                         InlineKeyboardButton(
                             text="Updates ",
-                            url="https://t.me/eagleunionelizasupportupdates")
+                            url="https://t.me/Mastro_update")
                     ],
                     [
                         InlineKeyboardButton(
                             text="help",
-                            url="https://t.me/misasofiya_bot?start=help")
+                            url="https://t.me/Miya_kalifabot?start=help")
                     ]]))
        
 #@run_async
